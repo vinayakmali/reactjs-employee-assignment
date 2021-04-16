@@ -1,0 +1,12 @@
+.dropDown {
+	padding: 10px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	font-size: 16px;
+	width: 94%;
+}
+
+.dropDown:focus {
+	border-color: #0ab1f1;
+	outline: none;
+}
